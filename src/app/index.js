@@ -1,0 +1,5 @@
+export * from './usuario'
+export * from './estudiante'
+export * from './docente'
+export * from './director'
+export * from './comision'

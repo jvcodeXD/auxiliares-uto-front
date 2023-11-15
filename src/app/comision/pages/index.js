@@ -1,0 +1,5 @@
+export * from './Comision'
+export * from './Convocatoria'
+export * from './Integrantes'
+export * from './Nominacion'
+export * from './Postulantes'
